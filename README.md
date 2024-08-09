@@ -125,7 +125,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [OpenCV](https://opencv.org/) for video processing.
 - [Tkinter](https://docs.python.org/3/library/tkinter.html) for GUI development in Python.
-
----
-
-Feel free to adjust any details based on your actual implementation and repository structure!
